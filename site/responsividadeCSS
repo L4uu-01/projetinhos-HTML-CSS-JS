@@ -1,0 +1,73 @@
+* {
+    margin: 0;
+    padding: 0;
+   box-sizing: border-box;
+}
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background: url(img/𝓙𝓊𝓁𝒾𝒶_\ Image.jpg);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-position: center; 
+    background-size: cover;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+.container {
+    border: 3px solid rgb(231, 195, 201);
+    border-radius: 10px;
+    width: 90%;
+    max-width: 500px;
+    background-color: rgb(255, 240, 244);
+    padding: 20px;
+}
+
+img {
+    width: 100%;
+    max-width: 300px;
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+}
+
+
+button {
+    display: block;
+    margin: auto;
+    max-width: 70%;
+    width: 100px;
+    cursor: pointer;
+    background-color: rgb(213, 168, 200);
+    border-radius: 3px;
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 5px;
+    
+}
+
+input:focus {
+    outline: none;
+}
+
+input {
+    border: solid 2px rgb(224, 223, 223);
+    border-radius: 10px;
+    padding: 10px;
+    width: 100%;
+
+}
+
+
+p {
+    margin-bottom: 10px;
+    text-align: justify;
+}
+
+h2 {
+    text-align: center;
+    color: rgb(229, 151, 191);
+}
