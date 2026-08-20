@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SITE</title>
+    <link rel="stylesheet" href="CSS/style.css">
+</head>
+<body>
+    <div class="container">
+
+        <h2>Título</h2>
+
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus corrupti minima maxime nostrum minus officia eligendi quisquam? Molestias, quae voluptate ipsam doloribus itaque, mollitia corporis doloremque tenetur dicta eaque dolores cupiditate quod dignissimos quaerat officia suscipit dolorum eveniet, quidem perspiciatis.</p>
+
+        <img src="imagens/cuteeeeeeeeeeeeeeeeee REPOST.jpg" alt="gato fofo">
+
+    </div>
+</body>
+</html>
