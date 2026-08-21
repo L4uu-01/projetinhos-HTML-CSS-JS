@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="CSS/style.css">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+       <div class="header-content">
+            <nav>
+                <div class="menu">
+                    <a href="#" title="home">Home</a>
+                    <a href="#" title="home">Blog</a>
+                    <a href="#" title="home">Cursos</a>
+                </div>
+            </nav>
+
+            <h1>CURSOS SERFRONTEND</h1>
+
+            <h2 class="subtitle">tudo o que precisa saber para iniciar na carreira</h2>
+        </nav>
+        </div>
+    </header>
+
+    <article>
+        <section>
+            <h2>O HTML</h2>
+
+            <p>O HTML (HyperText Markup Language) é a linguagem de marcação utilizada para criar páginas na web.</p>
+
+            <a href ="#" title="Mais informações sobre HTML">Saiba mais</a>
+        </section>
+
+        <section>
+            <h2>O CSS</h2>
+
+            <p>O CSS (Cascading Style Sheets) é a linguagem de estilo utilizada para definir a apresentação de páginas na web.</p>
+
+            <a href ="#" title="Mais informações sobre CSS">Saiba mais</a>
+        </section>
+
+        <section>
+            <h2>O JavaScript</h2>
+
+            <p>O JavaScript é uma linguagem de programação utilizada para criar interatividade em páginas na web.</p>
+
+            <a href ="#" title="Mais informações sobre JavaScript">Saiba mais</a>
+        </section>
+    </article>
+    <footer>
+        <p>&copy; Copyright 2016. </p>
+    </footer>
+
+</body>
+</html>
