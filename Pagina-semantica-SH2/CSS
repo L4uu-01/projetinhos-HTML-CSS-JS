@@ -1,0 +1,102 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    text-align: justify;
+    text-shadow: #727272 0px 0px 2px;
+    text-align: justify;
+}
+.card {
+    background-color: rgb(213, 213, 213);
+    width: 600px;
+    margin: auto;
+    padding: 20px;
+    border: solid #727272 5px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 20px black;
+}
+
+
+/*TITULOS*/
+h1 {
+
+    font-size: 40px;
+    font-weight: 900;
+    text-align: center;
+  
+}
+
+h2 {
+
+    font-size: 25px;
+    font-weight: 600;
+    text-align: left;
+}
+
+/*FECHAMENTO TITULOS*/
+
+
+/*LISTA*/
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    border-radius: 30px;
+    background-color: #939393;
+    margin: 12px;
+    padding: 10px;
+    box-shadow: #727272 0px 0px 5px;
+} 
+/*FECHAMENTO LISTA*/
+
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+
+/* colunas */
+.colunas {
+    flex: 1;
+
+}
+
+.rodape {
+    width: 100%;
+}
+/* fechamento colunas */
+
+
+
+/* ITENS DE IMAGEM*/
+img {
+    border-radius: 3px;
+    box-shadow: #727272 0px 0px 5px;
+    margin: 1px;
+}
+
+figcaption {
+    text-shadow: 0px 0px 1px;
+    font-size: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/* FEHCAMENTO ITENS DE IMAGEM*/
+
+
+
+a {
+    text-decoration: none;
+    color: aliceblue;
+    background: linear-gradient(rgb(206, 206, 206), rgb(86, 86, 86));
+    padding: 10px;
+    border-radius: 20px;
+    border: #727272 solid 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    display: block;
+    width: 100px;
+    text-align: center;
+}
