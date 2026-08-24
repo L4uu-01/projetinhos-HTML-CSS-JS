@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="CSS/ARQUIVO.css">
+    <title>Silent Hill 2</title>
+</head>
+<body>
+    <div class="card">
+
+        <header>
+            <h1>Silent Hill 2</h1>
+        </header>
+
+        <main>
+            <section class="colunas">
+
+                <h2>Sobre</h2>
+                <figure>
+
+                    <img src="image/0c305ad91c333599d8178174b952767f.jpg" alt="capa do jogo Silent Hill 2" width="200">
+
+                    <figcaption>Imagem retirada do Pinterest (autor desconhecido).</figcaption>
+
+                </figure>
+
+                <ul class="fonte">
+                    <li><strong>Plataforma:</strong> PlayStation 2, Microsoft Windows, PlayStation 3, Xbox 360, Xbox;</li>
+
+                    <li><strong>Gêneros:</strong> Jogo eletrônico de quebra-cabeça, Survival horror, Jogo eletrônico de ação e aventura, Tiro em terceira pessoa;</li>
+
+                    <li><strong>Desenvolvedores:</strong> Konami, Team Silent, Creature Labs, Konami Computer Entertainment Japan;</li>
+
+                    <li><strong>Estúdios: </strong> Konami, Konami of America;</li>
+
+                    <li><strong>Diretor:</strong>Masashi Tsuboyama.</li>
+                </ul>
+            </section>
+
+            <section class="colunas">
+
+                <h2>Sinopse</h2>
+
+                <p>A história acompanha James Sunderland, um viúvo em luto que viaja para a cidade de Silent Hill após receber uma carta de sua esposa, Mary. O mistério central é que Mary faleceu vítima de uma doença terminal há três anos, mas a mensagem diz que ela está o esperando no "lugar especial" do casal.</p>
+
+            
+  
+                <h2>Personagens</h2>
+
+                <figure>
+                    <img src="image/image.png" alt="James Sunderland" width="100">
+
+                    <img src="image/208d71c9323e85c8ee735b8fb9b80fac.jpg" width="100" alt="Mary Sunderland">
+
+                    <img src="image/69e30ac394123f8d775c17d215e9f412.jpg" alt="maria" width="100">
+
+                    <img src="image/Laura.png" width="100" alt="Laura Silent Hill">
+
+                    <img src="image/83e6ef21c089dc73a58daa8f9769cc35.jpg" width="100" alt=" Angela Orosco">
+
+                    <img src="image/0f3a2ce35e75eedaf7f7d0ff2a224188.jpg" alt=" Eddie Dombrowski" width="100">
+
+                    <figcaption>Imagens retiradas do Pinterest (autor desconhecido).</figcaption>
+                </figure>
+
+                <p> James Sunderland, Mary Shepherd-Sunderland, Maria, Laura, Angela Orosco, Eddie Dombrowski</p>
+            </section>
+
+         
+        </main>
+        <footer class="rodape">
+
+            <a href="pag-inicial.html">Voltar</a>
+
+        </footer>
+    </div>
+</body>
+</html>
